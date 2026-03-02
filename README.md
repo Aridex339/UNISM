@@ -65,7 +65,7 @@ python agent_main.py
 Sobald die erste gRPC-Verbindung implementiert ist, sollte der Agent im Backend unter „Agents“ sichtbar werden.
 
 ### 🗺 Roadmap
-- [ ] Repository-Grundstruktur & Issue Templates
+- [x] Repository-Grundstruktur & Issue Templates
 
 - [ ] README & Contributing Guidelines finalisieren
 
