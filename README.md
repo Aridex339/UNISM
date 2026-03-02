@@ -1,4 +1,4 @@
-# 🚀 [Projekt Name] MVP
+# 🚀 UNISM MVP
 
 > Kurzer Pitch: Welches Problem löst dein Projekt in einem Satz?
 
